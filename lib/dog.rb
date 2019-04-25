@@ -3,7 +3,7 @@ class Dog
   
   @@all = []
   
-  def initilialize(name)
+  def initialize(name)
     @name = name
   end
 end
